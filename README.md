@@ -79,7 +79,7 @@ Authentication & Security: Bcrypt hashing, secure session management, CORS prote
 
 Tooling & Environment: Dotenv, NPM package ecosystem
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
 Prerequisites
 Node.js (v18.0.0 or higher)
@@ -107,16 +107,16 @@ DB_PORT=5432
 SESSION_SECRET=your_jwt_or_session_secret
 4. Database Migration & Initialization
 Bash
-# Initialize schema and seed default menu items
+#Initialize schema and seed default menu items
 npm run db:migrate
 5. Launch the Server
 Bash
-# Start backend server
+#Start backend server
 npm run dev
 
-# Or standard production start
+#Or standard production start
 npm start
 Access the client application in your browser at http://localhost:5000.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
