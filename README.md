@@ -51,6 +51,8 @@ Savour-and-Sage/
 ├── 📄 reservations.html      # Real-time table booking & guest party configuration
 ├── 🎨 main.css               # Global responsive design tokens & styling
 └── ⚙️ package.json           # Node.js dependencies and script definitions
+```
+
 ⚡ Core Modules
 📅 Smart Reservation Engine: Dynamic table allocation system enabling guests to schedule dining slots, specify party sizes, request dietary accommodations, and receive real-time booking confirmation.
 
