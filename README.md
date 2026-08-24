@@ -50,8 +50,7 @@ Savour-and-Sage/
 ├── 📄 menu.html              # Filterable digital catalog with price breakdowns
 ├── 📄 reservations.html      # Real-time table booking & guest party configuration
 ├── 🎨 main.css               # Global responsive design tokens & styling
-└── ⚙️ package.json           # Node.js dependencies and script definitions  ```
-
+└── ⚙️ package.json           # Node.js dependencies and script definitions
 ⚡ Core Modules
 📅 Smart Reservation Engine: Dynamic table allocation system enabling guests to schedule dining slots, specify party sizes, request dietary accommodations, and receive real-time booking confirmation.
 
@@ -84,13 +83,13 @@ PostgreSQL (or local database instance)
 
 1. Clone the Repository
 Bash
-git clone [https://github.com/your-username/savour-and-sage.git](https://github.com/your-username/savour-and-sage.git)
+git clone [https://github.com/004372bssef24-arch/savour-and-sage.git](https://github.com/004372bssef24-arch/savour-and-sage.git)
 cd savour-and-sage
 2. Install Dependencies
 Bash
 npm install
 3. Environment Configuration
-Create a .env file in the root directory (based on .env.example):
+Create a .env file in the root directory:
 
 Code snippet
 PORT=5000
