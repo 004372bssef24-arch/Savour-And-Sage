@@ -54,6 +54,7 @@ Savour-and-Sage/
 ```
 
 ⚡ Core Modules
+
 📅 Smart Reservation Engine: Dynamic table allocation system enabling guests to schedule dining slots, specify party sizes, request dietary accommodations, and receive real-time booking confirmation.
 
 📜 Interactive Digital Menu: Categorized food and beverage catalog featuring real-time price updates, ingredient transparency, and allergen indicators.
@@ -65,6 +66,7 @@ Savour-and-Sage/
 🛡️ Staff & Admin Control Center: Isolated back-office dashboard providing staff members with real-time floor monitoring, reservation updates, and catalog manipulation.
 
 🛠️ Tech Stack
+
 Frontend: Semantic HTML5, Modular CSS3 (Custom Design System), Vanilla ES6+ JavaScript
 
 Backend Runtime: Node.js, Express.js
@@ -78,6 +80,7 @@ Authentication & Security: Bcrypt hashing, secure session management, CORS prote
 Tooling & Environment: Dotenv, NPM package ecosystem
 
 🚀 Installation & Setup
+
 Prerequisites
 Node.js (v18.0.0 or higher)
 
